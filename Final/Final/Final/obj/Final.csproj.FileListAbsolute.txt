@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Final\Final\Final\obj\Debug\Final.exe
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Final\Final\Final\obj\Debug\Final.pdb
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Final\Final\Final\bin\Debug\Final.exe
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Final\Final\Final\bin\Debug\Final.pdb
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Final\Final\Final\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Final\Final\Final\obj\Debug\Final.Final.resources
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Final\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Final\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache

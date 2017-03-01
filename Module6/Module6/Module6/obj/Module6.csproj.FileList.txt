@@ -1,0 +1,11 @@
+obj\Debug\Module6.exe
+obj\Debug\Module6.pdb
+bin\Debug\Module6.exe
+bin\Debug\Module6.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Module6.Properties.Resources.resources
+obj\Debug\Module6.csproj.GenerateResource.Cache
+obj\Debug\Module6.Splash.resources
+obj\Debug\Module6.Main.resources
+obj\Debug\Module6.About.resources
+obj\Debug\Module6.Sales.resources

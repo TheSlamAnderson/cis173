@@ -1,0 +1,2 @@
+obj\Debug\Module1.exe
+obj\Debug\Module1.pdb

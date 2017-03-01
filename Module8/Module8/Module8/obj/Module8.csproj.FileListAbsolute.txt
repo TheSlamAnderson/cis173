@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Module8\Module8\Module8\obj\Debug\Module8.exe
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Module8\Module8\Module8\obj\Debug\Module8.pdb
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Module8\Module8\Module8\bin\Debug\Module8.exe
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Module8\Module8\Module8\bin\Debug\Module8.pdb
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Module8\Module8\Module8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Module8\Module8\Module8\obj\Debug\Module8.Module8.resources
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Module8\Module8\Module8\obj\Debug\Module8.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\College\Programming In C#\Module8\Module8\Module8\obj\Debug\Module8.csproj.GenerateResource.Cache

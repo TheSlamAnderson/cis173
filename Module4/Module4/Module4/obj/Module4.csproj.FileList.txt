@@ -1,0 +1,8 @@
+obj\Debug\Module4.exe
+obj\Debug\Module4.pdb
+bin\Debug\Module4.exe
+bin\Debug\Module4.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Module4.Module4.resources
+obj\Debug\Module4.Properties.Resources.resources
+obj\Debug\Module4.csproj.GenerateResource.Cache
